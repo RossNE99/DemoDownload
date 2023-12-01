@@ -1,0 +1,28 @@
+section {
+  width: 600px;
+ /* height: 600px; */
+  text-align: center;
+  border: 15px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  padding:15px;
+  border:8px solid blue;
+  margin: 15px;
+}
+
+
+
+/*
+Bonus
+
+The float CSS property places an element on the 
+left or right side of its container, allowing text and
+inline elements to wrap around it. The element is removed
+from the normal flow of the page, though still remaining
+a part of the flow (in contrast to absolute positioning).
+
+*/
